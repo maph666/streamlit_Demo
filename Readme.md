@@ -40,6 +40,7 @@ source .venv/bin/activate
 
 ## para instalar pip install -r requirements.txt
 
+# Desarrollado por Germán Andrés Castaño Vásquez  https://github.com/gcastano
 
 
 [Para la documentacion](https://docs.streamlit.io/get-started/installation/command-line)

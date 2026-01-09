@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import datetime
-
+## desarrollado por gcastano https://github.com/gcastano
 # Obtenemos año actual
 today = datetime.date.today()
 year = today.year

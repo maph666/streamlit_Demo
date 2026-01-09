@@ -5,7 +5,7 @@ import tempfile # Librería para crear archivos temporales. #Ya viene instalada 
 from markitdown import MarkItDown # Librería para convertir documentos a Markdown. Instalar con: pip install markitdown
 # https://github.com/lfoppiano/streamlit-pdf-viewer
 from streamlit_pdf_viewer import pdf_viewer # Librería para visualizar archivos PDF en Streamlit. Instalar con: pip install streamlit-pdf-viewer
-
+# desarrollado_por = "gcastano https://github.com/gcastano
 # Configurar la página de Streamlit
 st.set_page_config(
     page_title="Convertidor de documentos a Markdown", # Título de la página
